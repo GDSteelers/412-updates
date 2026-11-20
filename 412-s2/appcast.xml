@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 S2</title>
+        <item>
+            <title>0.1.9</title>
+            <pubDate>Thu, 19 Nov 2026 20:34:32 -0500</pubDate>
+            <sparkle:version>0.1.9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Scroll follows your hand now: down is down, whatever the Mac's scroll setting. On the stepped EQ and the gain, one wheel click is one step.
+
+A whole scroll is one undo step in Logic, not thirty.
+
+Turn a pot and the pointer stays where you clicked it, in sight. Down is down there too.
+
+Hover text shows up in Logic now, after five seconds. Right-click menus stay open until you pick something.
+
+NOISE is the input plate's bottom screw. Small. Unlabelled. Hover to find out.
+
+On LINE, the gain number stops at +18, where the gain does.
+
+Quit Logic and this swaps itself in. Your songs come along.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412-S2-0.1.9-0.1.9.zip" length="5828722" type="application/octet-stream" sparkle:edSignature="jfedEDUKumd93DGQSQgVSBf9JVrK2dXOFQK2pJ8vqQ+sCF/8fPoX4NS1Hp+ulFdyuwggWtHB0XviHKk05pEUCg=="/>
+        </item>
+        <item>
+            <title>0.1.8</title>
+            <pubDate>Thu, 19 Nov 2026 18:55:01 -0500</pubDate>
+            <sparkle:version>0.1.8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Scroll follows your hand now: down is down, whatever the Mac's scroll setting. On the stepped EQ and the gain, one wheel click is one step.
+
+A whole scroll is one undo step in Logic, not thirty.
+
+The pointer stays where you clicked while you turn a pot, and it stays in sight.
+
+Hover text and the value bubbles wait five seconds.
+
+On LINE, the gain number stops at +18, where the gain does.
+
+Quit Logic and this swaps itself in. Your songs come along.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412-S2-0.1.8-0.1.8.zip" length="5826340" type="application/octet-stream" sparkle:edSignature="X1uLn6XL20hsoo2TOwyVzXq6az6fAI0FiITw2z+nMXeVE8Du7Eaxofm/klxbZc6ouh66gG9YSYBPA4KTxyzxAA=="/>
+        </item>
+        <item>
+            <title>0.1.7</title>
+            <pubDate>Thu, 19 Nov 2026 18:21:01 -0500</pubDate>
+            <sparkle:version>0.1.7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[The fader jumps on Option-click: to unity, and from unity all the way off. Double-click types a value again, like every other pot.
+
+The manual is dark now, and it shows its work: how the console was measured, and the EQ curves from the sweeps.
+
+Quit Logic and this swaps itself in. Your songs come along.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412-S2-0.1.7-0.1.7.zip" length="5820696" type="application/octet-stream" sparkle:edSignature="JkMXlp8MRy/eDdz556gYtHL2PnK6q33b/9QYpAfOAa99ZxmzlHbrf94ELw1AiQQozRuOkYXdnfHTGHZgwqzMBA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: Tm585hQ6h3VKIjgqNLrL89wTMLfIPXRQsa7gmfMV2mBI4gHr0w9Cjn2woEwkeROSCtVxPJEyw8GaLtFs+DNGCA==
+length: 3565
+-->
