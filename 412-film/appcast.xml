@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Film</title>
+        <item>
+            <title>1.1.2</title>
+            <pubDate>Fri, 20 Nov 2026 22:10:24 -0500</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[412 Film is a little more than half the size it was. Same pictures come out.
+Updates after this one are a few megabytes instead of the whole app.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-film/412-Film-1.1.2-1.1.2.zip" length="77510069" type="application/octet-stream" sparkle:edSignature="+DwJ8EE62rX9JqLpPUoNkainWHZERLrHfw8dKv5MWvu0tjB4cl6Ab+djYB5VTzoBrhKtsJ4kEI1bNGdJcTWVBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-film/412%20Film1.1.2-1.1.1.delta" sparkle:deltaFrom="1.1.1" length="37098386" type="application/octet-stream" sparkle:edSignature="a2YPZslbZY+iVDf+T+sP2QWRjJP0BxqDlBxoZOZj470IxtE3KiHy2j4K4fW54aaH3mY9NA7jigPsONykUZeYDQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: MMuixkp51QzQ2Kxs6aqeatqSkOzDh7xCV6We8gjY080c+HEiAqMJH8iqVSEOQFiUMlwN7wIFd7P5A03DTxHRDA==
+length: 1457
+-->

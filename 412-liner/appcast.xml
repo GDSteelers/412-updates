@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Liner</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 21 Nov 2026 13:55:13 -0500</pubDate>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412-Liner-1.0-95.zip" length="9366836" type="application/octet-stream" sparkle:edSignature="IFCUxR4qNDtPJzTCCTcZwPywRSuUogjhM96IaWwQVdCQAMEGie43w16uJM+yt6llFI8tMm7saGz4TSgV/ggkBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner95-94.delta" sparkle:deltaFrom="94" length="6935426" type="application/octet-stream" sparkle:edSignature="bzjR62xuwkctyS8VQutpYIzl0yBMh4G1EIeGQahNnxEyOJ58eoy8jFohiLJuRq09ksY7NlZQtpm5tL2Ce3KjCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:36:44 -0500</pubDate>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412-Liner-1.0-94.zip" length="4053944" type="application/octet-stream" sparkle:edSignature="LkGccbIri/Z78k5xT7+HgjUsVvTPwwmhwuXrDwAqISsPOs4yxSU8gFSRvLozuT5b/A0blQoWqBSQQ8jDnkn7AA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: HtkUm10XDvdlk2tONRgrudp+Edw/aoM9wYdk7GvdBY7SAIq1KDEPSFe0BbeQ/28ntpKuys56arOy1wkJK7fcDg==
+length: 1725
+-->

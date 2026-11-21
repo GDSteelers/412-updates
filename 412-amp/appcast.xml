@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Amp</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Fri, 20 Nov 2026 17:02:45 -0500</pubDate>
+            <sparkle:version>0.0.1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-amp/412-Amp-0.0.1-0.0.1.zip" length="7154676" type="application/octet-stream" sparkle:edSignature="8rD88gHWbb9tGUCa3VfpmEfaQZ8Uj5ePgxEIYXCpi5KabmyCqZ9uT7ysnDD6/spOwKWowiL4Uo4UlaPLVL5EBA=="/>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: pt+rbzHFvKzVmPSlYQi6mGXKrSWaUA6X9HCo7UpUvrkUJ8TZEVWJAmTKP9j7E+7qaECFeGn+RDfC57wa6sTSDQ==
+length: 869
+-->

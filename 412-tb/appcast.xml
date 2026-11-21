@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 TB</title>
+        <item>
+            <title>0.3.9</title>
+            <pubDate>Fri, 20 Nov 2026 15:06:36 -0500</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Check for Updates is in the 412 TB menu and at the bottom of SETUP. 412 Updater does the rest.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-tb/412-TB-0.3.9-32.zip" length="13166299" type="application/octet-stream" sparkle:edSignature="zCOXVPiLSlSIt+XYuJzBZcORStdnJK6v6GjUU67gX5KkaViVDWka1vApgCr4rSbWdML3XED2ZuoBYcbrJ8L6Cw=="/>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 3V14irzUBtHZT1CxgixYWUmK8cx+p03uOGpSekDAutlBAm6fUnwRq5uFUaClgWBbbETdyGS4h3OzkFES6WfUBQ==
+length: 955
+-->
