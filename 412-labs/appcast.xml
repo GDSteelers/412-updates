@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Labs</title>
+        <item>
+            <title>0.1.4</title>
+            <pubDate>Fri, 20 Nov 2026 15:27:37 -0500</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Plug-ins that bring their own icon show it now. The rest keep the drawn one.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-labs/412-Labs-0.1.4-14.zip" length="419983" type="application/octet-stream" sparkle:edSignature="gAr2X7FL9flh7USMKZzVxDkVBjCpx8uohzJxGLkHdES/f1o/QxzqHmSzJUTWtZvI7xqUy8Y4kSmgPK9ByyvwAw=="/>
+        </item>
+        <item>
+            <title>0.1.3</title>
+            <pubDate>Fri, 20 Nov 2026 14:59:32 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Check for Updates now opens 412 Updater and has it look right away. Also in the 412 Labs menu.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-labs/412-Labs-0.1.3-12.zip" length="418160" type="application/octet-stream" sparkle:edSignature="FBjb/mFlPadGMiiGPbWSsh715Wbt4EhZkND8FsgCd231KIiqOSJzAplWQxSBNozrMco/IDyi9iziR6YuODT2CQ=="/>
+        </item>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 20 Nov 2026 13:03:24 -0500</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Window menu: Cmd-M minimizes.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-labs/412-Labs-0.1.2-10.zip" length="448790" type="application/octet-stream" sparkle:edSignature="HIGi1Y5qVeBQcvgsw6C/nIDBX/bk97ik7g3pC9r9yIMGCHgd0E2I20sLX30fB7QNPwOUmADUyG1LyGsEm7w2Dw=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 5QKODiPJS8pyiEXwp0uD0H/tyELqivbywkLw2DdiVE1dPYezKNEEfQhz5JzYfDSf4qVutchTF6QCnBMt+mvHDg==
+length: 2407
+-->

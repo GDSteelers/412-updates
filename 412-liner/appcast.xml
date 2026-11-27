@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Liner</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 24 Nov 2026 16:10:45 -0500</pubDate>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412-Liner-1.0-112.zip" length="9447106" type="application/octet-stream" sparkle:edSignature="lzEcE4QwmyyLEO7cFA13ljzKwqXIgFyAO8e5v39yuQ2MM0SfGYcOBvvDlKVRtGjD1vYFbMB/n38I/lN6O0tCAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner112-111.delta" sparkle:deltaFrom="111" length="145366" type="application/octet-stream" sparkle:edSignature="Iom0P21LPz4dpFHavceGJN1i6sI+jAaT+gL87CDTetqAQMt2xYxkzGaB/8lLZZ2B3kg3H3R7/smxu3KPNUpEAg=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner112-110.delta" sparkle:deltaFrom="110" length="159382" type="application/octet-stream" sparkle:edSignature="f1oGwaJDItRXtcK5k/eTKOKe9j6OymQS4o1ORWffKIo72jLWdZfLRoWxRt2ZLP1ByGPMawRWcRqFq8g9YZKsBw=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner112-109.delta" sparkle:deltaFrom="109" length="174534" type="application/octet-stream" sparkle:edSignature="RNc3psVqMGUyIXPoKosqCxF8dG15HWNgcqWWuJH1YojuJ+2T/6i7lB2GK8PQxz/MmuVIL6l5oQPsnYmL1maOBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 24 Nov 2026 12:26:12 -0500</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412-Liner-1.0-111.zip" length="9446280" type="application/octet-stream" sparkle:edSignature="lI9x0sAy5z9EZqfWi+sPdEAB3nFrBwgVR4kCj/Zv22/8M5JLq5C4YNl/iVBwS/7P54JXu+WxEyibHoDKqb+uCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner111-110.delta" sparkle:deltaFrom="110" length="112890" type="application/octet-stream" sparkle:edSignature="eUG35XYtUAEw7Ocl0n67YN/QaJR6EFLvRFbRsxatEo9LfNWNBGylq+6UH2CBiIcx3wsFHPXb8ybjjETgDkLrAA=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner111-109.delta" sparkle:deltaFrom="109" length="146902" type="application/octet-stream" sparkle:edSignature="PhVLw2d1NqpdPp7UOiP1hvNMDwarnN9Z7WzSH7z/BBN+guWX0rC/LMR88Gqx8rx9oLI6yzWEylCGD6e404oPAQ=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner111-108.delta" sparkle:deltaFrom="108" length="159858" type="application/octet-stream" sparkle:edSignature="W+xxG1feb6lvUrb7wuoh3vB1prmOhMjiBMY9fvjf8BamaB6bkceCbhDqqsV5croK5+UDsRBuz7zIPL2tmIfMDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 24 Nov 2026 11:29:12 -0500</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412-Liner-1.0-110.zip" length="9444254" type="application/octet-stream" sparkle:edSignature="JcNE2XSJFxg2Em8nYQsmmcrm+1sx6YFlfjWPePjZjXH4427i7mUtKYpBIPxNMJrtlStksIWmP5WjLaQoMhyeCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner110-109.delta" sparkle:deltaFrom="109" length="143746" type="application/octet-stream" sparkle:edSignature="KU/5dpfAhshSpqeyBYFwj0Qr2vDOdlkuGfG6Ut85WquKmTgE5ZyjEOWK0C86B65Za0arEIxUsxc84t2A9QgIDQ=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner110-108.delta" sparkle:deltaFrom="108" length="152402" type="application/octet-stream" sparkle:edSignature="O8eCU7bazwSec4APL0dK28NSn1Ygn0+uL49SnidrVlVZTE/xAjXqXA93rjkLJ8fXHUlvDeHqsU9jgJbuDF0JCw=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-liner/412%20Liner110-107.delta" sparkle:deltaFrom="107" length="186302" type="application/octet-stream" sparkle:edSignature="L6TDdkkVSklj0YPtpaVvMzoAgVrEzFV+yYS8WI0RAvi5wfnAiAZyb49bviDIUKDDFvgG4RDjS0/N9ZOW0LGxDQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: pbRiMaQomqMvYFcnikYgB5mfSHoeO71Sl4UqnSYI/dTIxfRGhjyBX1yBZV6ksNqKTFcq3ASTLNCjOnjuzH8oAQ==
+length: 4792
+-->

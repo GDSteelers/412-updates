@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Amp</title>
+        <item>
+            <title>0.0.2</title>
+            <pubDate>Tue, 24 Nov 2026 10:12:37 -0500</pubDate>
+            <sparkle:version>0.0.2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-amp/412-Amp-0.0.2-0.0.2.zip" length="7845666" type="application/octet-stream" sparkle:edSignature="5ptGWVKf+jT5QLX4pzZnnAVAASusN/UUcspyLCUtVgMjsLxsZcxC6Mz4/51SF87Kmwmu5DVznOHyyagYVX9UBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-amp/412%20Amp0.0.2-0.0.1.delta" sparkle:deltaFrom="0.0.1" length="1274670" type="application/octet-stream" sparkle:edSignature="FDLdP8HiEFFetYw8JCQzrfdwjhnHapAwzl+qKJhe3Y3474wsCMHmZ6DdtHp0JAJcmMpxlPgjbm+N1KSXLV74BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Fri, 20 Nov 2026 17:02:45 -0500</pubDate>
+            <sparkle:version>0.0.1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-amp/412-Amp-0.0.1-0.0.1.zip" length="7154676" type="application/octet-stream" sparkle:edSignature="8rD88gHWbb9tGUCa3VfpmEfaQZ8Uj5ePgxEIYXCpi5KabmyCqZ9uT7ysnDD6/spOwKWowiL4Uo4UlaPLVL5EBA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: J40PSuAeSFmZiTRng2+xs9AYr2dptCylWbQNVKhQQMm+JpwdgAvKb6IIja6Y7DgLrQi7yfMaiE6qFqpl/3gwCA==
+length: 1902
+-->

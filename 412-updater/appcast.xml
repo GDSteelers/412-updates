@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 Updater</title>
+        <item>
+            <title>0.1.6</title>
+            <pubDate>Mon, 23 Nov 2026 10:14:09 -0500</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-updater/412-Updater-0.1.6-27.zip" length="1416104" type="application/octet-stream" sparkle:edSignature="JxtQYj6bQgxyPfk/DngdkoD6/dwhq/iNgzNaD9A7CdIRJWtEkjHGDH1dhz3+ldvAaR2W5Lae5tgdY+847S7YDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-updater/412%20Updater27-19.delta" sparkle:deltaFrom="19" length="78354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="11yaB/HJvi6aJZ3zFp2w2ZBQr14ZqVwNs3LMilI7gQXAMvLX3ZY8oF7NQJXnoDdZj/MgcEOxGeBa4SQYsfcBBg=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-updater/412%20Updater27-15.delta" sparkle:deltaFrom="15" length="78754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gDNvCqF94oNuX958xoA78bDUXFVYlW0quOvSDQs0ULf6NzgtqZZidXk9E/M8M+N3tawdn4ut3mSYll7CiizKBQ=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-updater/412%20Updater27-13.delta" sparkle:deltaFrom="13" length="86570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y59ZzwuaM2Gt4MX5W8g4Z6sbDP/3yf0AqIjQfUUm6ciQZlTVyyZTPx2Z3bMj9l8YzxNNKWEoAhKRkEpNfh/EDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.5</title>
+            <pubDate>Fri, 20 Nov 2026 15:25:59 -0500</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Plug-ins that bring their own icon show it now. The rest keep the drawn one.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-updater/412-Updater-0.1.5-19.zip" length="1476439" type="application/octet-stream" sparkle:edSignature="HUyPv2HlLCUI+O0HjNbsmmbmu7GsAgtRm1+61/OiwvhKvSU8/0fMsFtk8H2MiibEM3R3iSYHDsgElV1B+iwVCA=="/>
+        </item>
+        <item>
+            <title>0.1.4</title>
+            <pubDate>Fri, 20 Nov 2026 14:33:49 -0500</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Check for Updates in each 412 app now opens this window and looks right away.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-updater/412-Updater-0.1.4-15.zip" length="1476011" type="application/octet-stream" sparkle:edSignature="RCIaw7d6oNij7AXRz6CT7gwgztpY5tifaizEzdenbJI1k5yDKiKznrXvu3HDLuE/C/CZ3pRKeeRWvO5PT+TmCg=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: PF1XcpQbtowvJivGsfrAfNbBj6OqtCpwyKivUqkOTTdXVRa56fpW4IbAj7xlaYKUazkH+QtlQZFrRb/hLPjWAg==
+length: 3556
+-->

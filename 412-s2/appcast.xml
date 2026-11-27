@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>412 S2</title>
+        <item>
+            <title>0.1.10</title>
+            <pubDate>Fri, 20 Nov 2026 16:40:21 -0500</pubDate>
+            <sparkle:version>0.1.10</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Click the name. 412 S2, top of the plate. Check for Updates.
+
+It looks now instead of waiting six hours. That's all it does.
+
+It has an icon now. You'll see it in 412 Updater. Nowhere else, really.
+
+Quit Logic and this swaps itself in. Your songs come along.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412-S2-0.1.10-0.1.10.zip" length="5996646" type="application/octet-stream" sparkle:edSignature="bGMwmxTaZ5C2cC+saIs5YgeUUB/4Tn563Yv+/FMl8r9dX0l1wrv062kE34hVfCQi6lTSYiAd1CDl4d+N/4FBBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412%20S20.1.10-0.1.9.delta" sparkle:deltaFrom="0.1.9" length="442030" type="application/octet-stream" sparkle:edSignature="OF0pkbGu7/qJyI5bVjJCqHLGhNFq/F6jDcrNCPDQ0mI7lUEEt/IbiCdNzKEcUfRbSZ+D/3u/bta7p3gIsejDBg=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412%20S20.1.10-0.1.8.delta" sparkle:deltaFrom="0.1.8" length="541578" type="application/octet-stream" sparkle:edSignature="Bs7K2Hu4ZqUgnnKUgg6b0Ooadp0fSCV804nBUPT0jzBcBGgtqaTsopbdC4WgFQ9x3e7fKDqLDwkamYua7SDXBQ=="/>
+                <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412%20S20.1.10-0.1.7.delta" sparkle:deltaFrom="0.1.7" length="550998" type="application/octet-stream" sparkle:edSignature="KsLPFHHyQ0ZHakwngQ98CPBLIs1Mk0C3Wv2kNCYlXVWVPaeFslSZ50VppMPGWG7F4jlR4r53QIk4vn/DmgtwAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.9</title>
+            <pubDate>Thu, 19 Nov 2026 20:34:32 -0500</pubDate>
+            <sparkle:version>0.1.9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Scroll follows your hand now: down is down, whatever the Mac's scroll setting. On the stepped EQ and the gain, one wheel click is one step.
+
+A whole scroll is one undo step in Logic, not thirty.
+
+Turn a pot and the pointer stays where you clicked it, in sight. Down is down there too.
+
+Hover text shows up in Logic now, after five seconds. Right-click menus stay open until you pick something.
+
+NOISE is the input plate's bottom screw. Small. Unlabelled. Hover to find out.
+
+On LINE, the gain number stops at +18, where the gain does.
+
+Quit Logic and this swaps itself in. Your songs come along.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412-S2-0.1.9-0.1.9.zip" length="5828722" type="application/octet-stream" sparkle:edSignature="jfedEDUKumd93DGQSQgVSBf9JVrK2dXOFQK2pJ8vqQ+sCF/8fPoX4NS1Hp+ulFdyuwggWtHB0XviHKk05pEUCg=="/>
+        </item>
+        <item>
+            <title>0.1.8</title>
+            <pubDate>Thu, 19 Nov 2026 18:55:01 -0500</pubDate>
+            <sparkle:version>0.1.8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Scroll follows your hand now: down is down, whatever the Mac's scroll setting. On the stepped EQ and the gain, one wheel click is one step.
+
+A whole scroll is one undo step in Logic, not thirty.
+
+The pointer stays where you clicked while you turn a pot, and it stays in sight.
+
+Hover text and the value bubbles wait five seconds.
+
+On LINE, the gain number stops at +18, where the gain does.
+
+Quit Logic and this swaps itself in. Your songs come along.
+]]></description>
+            <enclosure url="https://gdsteelers.github.io/412-updates/412-s2/412-S2-0.1.8-0.1.8.zip" length="5826340" type="application/octet-stream" sparkle:edSignature="X1uLn6XL20hsoo2TOwyVzXq6az6fAI0FiITw2z+nMXeVE8Du7Eaxofm/klxbZc6ouh66gG9YSYBPA4KTxyzxAA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 6mdfLf8dwpvHAXQZlqY6MypukcJhYp0knmat01jxtDon6XsbugE3n14xdN7Gf4BEMuzADXxAq64QfUR41K5JCQ==
+length: 4468
+-->
